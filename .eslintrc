@@ -1,0 +1,9 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 9
+  },
+  "extends": "simpleton",
+  "rules": {
+    "no-console": "off"
+  }
+}
